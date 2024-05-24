@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Moulaye Ahmed Mohammed Brahim</title>
+    <link>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/post/</link>
+    <description>Recent content in Projects on Moulaye Ahmed Mohammed Brahim</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 May 2024 11:13:32 -0400</lastBuildDate>
+    <atom:link href="https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Recognition and Classification of Traditional Mauritanian Music Notes Using LSTM </title>
+      <link>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/post/project-4/</link>
+      <pubDate>Sat, 18 May 2024 11:13:32 -0400</pubDate>
+      <guid>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/post/project-4/</guid>
+      <description>The project focuses on developing an advanced deep learning model utilizing Long Short-Term Memory (LSTM) architecture for the recognition and classification of traditional Mauritanian music notes. Traditional Mauritanian music, deeply rooted in history and cultural heritage, features the tidinit instrument, renowned for its intricate melodies and rhythms. Central to Mauritanian music are the &amp;ldquo;maqamat,&amp;rdquo; which are musical modes or scales that organize melodies according to established rules and dimensions, imparting distinct characteristics and emotions to each.</description>
+    </item>
+    <item>
+      <title>Project II : LSTM-Based French-to-English Translation Model </title>
+      <link>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/post/project-5/</link>
+      <pubDate>Sat, 18 May 2024 11:13:32 -0400</pubDate>
+      <guid>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/post/project-5/</guid>
+      <description>This project focuses on the development of an advanced natural language processing (NLP) model utilizing Long Short-Term Memory (LSTM) architecture for French to English translation. Translation between these languages presents unique challenges due to differences in grammar, syntax, and vocabulary. By harnessing the power of deep learning and LSTM networks, the project aims to automate and enhance the accuracy of translation processes, catering to diverse applications ranging from literature and academia to business and communication.</description>
+    </item>
+    <item>
+      <title>Project III: Conversion Rate Optimisation</title>
+      <link>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 16 Mar 2024 10:58:08 -0400</pubDate>
+      <guid>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/post/project-1/</guid>
+      <description>Problem: The main challenge is to develop an accurate and robust prediction model capable of classifying users based on their propensity to convert on the site. This classification is crucial for guiding marketing initiatives and user experience enhancements aimed at maximizing conversion rates and, by extension, site-generated revenues.&#xA;Proposed Solution: This data science project aims to develop a conversion rate prediction model using advanced techniques such as logistic regression. By following a rigorous methodology including data preparation, selection of relevant variables, model construction, and performance evaluation, our goal is to provide the marketing team with precise predictive tools to optimize campaigns and conversion strategies.</description>
+    </item>
+    <item>
+      <title>Project IV: Classification and Targeting of Vulnerable Households in Mauritania by Socio-demographic Category and Consumer Spending</title>
+      <link>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/post/project-2/</link>
+      <pubDate>Fri, 22 Dec 2023 11:00:59 -0400</pubDate>
+      <guid>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/post/project-2/</guid>
+      <description>Problem: The main challenge lies in developing an accurate and reliable model capable of classifying households as poor or non-poor based on socio-demographic variables and consumer spending data. This classification is essential for devising targeted policies aimed at efficiently allocating resources and social assistance programs.&#xA;Proposed Solution: This machine learning project aims to develop a robust classification model using logistic regression techniques to predict household poverty status based on EPCVM data.</description>
+    </item>
+    <item>
+      <title>Project V: Generating Images with the Variational Auto-Encoder </title>
+      <link>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 02 Dec 2023 11:13:32 -0400</pubDate>
+      <guid>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/post/project-3/</guid>
+      <description>Project Steps:&#xA;Data Collection: Download and prepare the CelebA Faces dataset, ensuring a collection of celebrity face images for training the VAE model. Data Preprocessing: Resize images if necessary, normalize pixel values, and split the data into training and testing sets. VAE Architecture Creation: Define the architecture of the Variational Autoencoder, including the encoder and decoder components. The encoder compresses input images into latent representations, while the decoder generates new images from these representations.</description>
+    </item>
+    <item>
+      <title>Project VI : AgrInnovators Platform for Agricultural Data Analysis and Farmer Support </title>
+      <link>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/post/project-7/</link>
+      <pubDate>Fri, 01 Dec 2023 11:13:32 -0400</pubDate>
+      <guid>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/post/project-7/</guid>
+      <description>In November 2023, a project was undertaken to develop an application for managing the National Consumer Price Index (INPC) for the National Agency of Statistics and Demographic and Economic Analysis. Using Django, the CHAPO application was created to facilitate the management of the INPC and the prices of various products across different points of sale.&#xA;CHAPO includes automated calculation tools and predictive modeling for the INPC and specific product prices. This enables more efficient and accurate management of price data, providing a better foundation for economic analysis and decision-making.</description>
+    </item>
+    <item>
+      <title>Project VII : Development of the CHAPO Application for INPC Management </title>
+      <link>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/post/project-6/</link>
+      <pubDate>Wed, 22 Nov 2023 11:13:32 -0400</pubDate>
+      <guid>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/post/project-6/</guid>
+      <description>In November 2023, a project was undertaken to develop an application for managing the National Consumer Price Index (INPC) for the National Agency of Statistics and Demographic and Economic Analysis. Using Django, the CHAPO application was created to facilitate the management of the INPC and the prices of various products across different points of sale.&#xA;CHAPO includes automated calculation tools and predictive modeling for the INPC and specific product prices. This enables more efficient and accurate management of price data, providing a better foundation for economic analysis and decision-making.</description>
+    </item>
+  </channel>
+</rss>

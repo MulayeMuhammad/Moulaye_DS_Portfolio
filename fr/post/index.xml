@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projets on Moulaye Ahmed Mohammed Brahim</title>
+    <link>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/fr/post/</link>
+    <description>Recent content in Projets on Moulaye Ahmed Mohammed Brahim</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 18 May 2024 11:13:32 -0400</lastBuildDate>
+    <atom:link href="https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/fr/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projet I: Reconnaissance et classification des notes de musique traditionnelle mauritanienne à l&#39;aide d&#39;un LSTM </title>
+      <link>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/fr/post/projet-1/</link>
+      <pubDate>Sat, 18 May 2024 11:13:32 -0400</pubDate>
+      <guid>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/fr/post/projet-1/</guid>
+      <description>La musique traditionnelle mauritanienne est riche en histoire, en culture et en diversité. Au coeur de cette musique se trouve un instrument emblématique appelé le tidinit, qui produit une variété de notes et de mélodies. Pour classer ces mélodies et faciliter les relations du joueur avec l&amp;rsquo;instrument ainsi qu&amp;rsquo;avec la gamme musicale, les musiciens mauritaniens utilisent un système appelé les &amp;ldquo;maqamat&amp;rdquo;. Les maqamat sont des séquences de signes musicaux organisés selon certaines dimensions et règles établies, permettant de classer les mélodies musicales de manière systématique.</description>
+    </item>
+    <item>
+      <title>Projet II : Modèle de traduction français-anglais basé sur LSTM </title>
+      <link>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/fr/post/projet-2/</link>
+      <pubDate>Sat, 18 May 2024 11:13:32 -0400</pubDate>
+      <guid>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/fr/post/projet-2/</guid>
+      <description>Ce projet se concentre sur le développement d&amp;rsquo;un modèle avancé de traitement du langage naturel (NLP) utilisant l&amp;rsquo;architecture Long Short-Term Memory (LSTM) pour la traduction du français vers l&amp;rsquo;anglais. La traduction entre ces langues présente des défis uniques en raison des différences de grammaire, de syntaxe et de vocabulaire. En exploitant la puissance de l&amp;rsquo;apprentissage en profondeur et des réseaux LSTM, le projet vise à automatiser et à améliorer la précision des processus de traduction, couvrant diverses applications allant de la littérature et de l&amp;rsquo;académie aux affaires et à la communication.</description>
+    </item>
+    <item>
+      <title>Projet III: Optimisation du taux de conversion</title>
+      <link>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/fr/post/projet-3/</link>
+      <pubDate>Sat, 16 Mar 2024 10:58:08 -0400</pubDate>
+      <guid>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/fr/post/projet-3/</guid>
+      <description>Problème : Le principal défi est de développer un modèle de prédiction précis et robuste capable de classifier les utilisateurs en fonction de leur propension à convertir sur le site. Cette classification est cruciale pour orienter les initiatives marketing et les améliorations de l&amp;rsquo;expérience utilisateur visant à maximiser les taux de conversion et, par extension, les revenus générés par le site.&#xA;Solution Proposée : Ce projet de science des données vise à développer un modèle de prédiction du taux de conversion en utilisant des techniques avancées telles que la régression logistique.</description>
+    </item>
+    <item>
+      <title>Projet IV: Classification et ciblage des ménages vulnérables en Mauritanie par catégorie socio-démographique et les dépenses de consommation.</title>
+      <link>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/fr/post/projet-4/</link>
+      <pubDate>Fri, 22 Dec 2023 11:00:59 -0400</pubDate>
+      <guid>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/fr/post/projet-4/</guid>
+      <description>Problème : Le principal défi réside dans le développement d&amp;rsquo;un modèle précis et fiable capable de classifier les ménages comme pauvres ou non pauvres, basé sur des variables sociodémographiques et des données de dépenses des consommateurs. Cette classification est essentielle pour élaborer des politiques ciblées visant à allouer efficacement les ressources et les programmes d&amp;rsquo;assistance sociale.&#xA;Solution proposée : Ce projet d&amp;rsquo;apprentissage automatique vise à développer un modèle de classification robuste en utilisant des techniques de régression logistique pour prédire le statut de pauvreté des ménages basé sur les données EPCVM.</description>
+    </item>
+    <item>
+      <title>Project V: Génération d&#39;Images avec the Variational Auto-Encoder </title>
+      <link>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/fr/post/projet-5/</link>
+      <pubDate>Sat, 02 Dec 2023 11:13:32 -0400</pubDate>
+      <guid>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/fr/post/projet-5/</guid>
+      <description>Étapes du Projet :&#xA;Collecte des Données : Télécharger et préparer le jeu de données CelebA Faces, en veillant à disposer d&amp;rsquo;une collection d&amp;rsquo;images de visages de célébrités pour entraîner le modèle VAE. Prétraitement des Données : Redimensionner les images si nécessaire, normaliser les valeurs de pixels et diviser les données en ensembles d&amp;rsquo;entraînement et de test. Création de l&amp;rsquo;Architecture du VAE : Définir l&amp;rsquo;architecture de l&amp;rsquo;Autoencodeur Variationnel, comprenant les composants de l&amp;rsquo;encodeur et du décodeur.</description>
+    </item>
+    <item>
+      <title>Projet VI : Plateforme AgrInnovators pour l&#39;Analyse des Données Agricoles et l&#39;Accompagnement des Agriculteurs </title>
+      <link>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/fr/post/projet-7/</link>
+      <pubDate>Fri, 01 Dec 2023 11:13:32 -0400</pubDate>
+      <guid>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/fr/post/projet-7/</guid>
+      <description>AgrInnovators est une plateforme innovante conçue pour optimiser les pratiques et les rendements des agriculteurs mauritaniens grâce à l&amp;rsquo;analyse avancée des données agricoles. Cette application permet la collecte de données en temps réel via des capteurs, offrant ainsi une surveillance précise des conditions agricoles. Elle inclut des outils d&amp;rsquo;analyse de données et de prédiction qui aident les agriculteurs à prendre des décisions éclairées pour améliorer leurs récoltes.&#xA;La plateforme dispose également d&amp;rsquo;un système de simulation permettant aux agriculteurs de simuler des chocs et d&amp;rsquo;observer leur impact sur les cultures, ce qui favorise une meilleure préparation et résilience.</description>
+    </item>
+    <item>
+      <title>Projet VII : Développement de l&#39;Application CHAPO pour la Gestion de l&#39;INPC </title>
+      <link>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/fr/post/projet-6/</link>
+      <pubDate>Wed, 22 Nov 2023 11:13:32 -0400</pubDate>
+      <guid>https://mulayemuhammad.github.io/Moulaye_DS_Portfolio/fr/post/projet-6/</guid>
+      <description>AgrInnovators is an innovative platform designed to optimize the practices and yields of Mauritanian farmers through advanced agricultural data analysis. This application enables real-time data collection via sensors, providing precise monitoring of agricultural conditions. It includes data analysis and prediction tools that help farmers make informed decisions to improve their crops.&#xA;The platform also features a simulation system that allows farmers to simulate shocks and observe their impact on crops, enhancing preparedness and resilience.</description>
+    </item>
+  </channel>
+</rss>
