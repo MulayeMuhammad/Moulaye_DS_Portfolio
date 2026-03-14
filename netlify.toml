@@ -1,0 +1,60 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/post/project-1"
+  to = "/post/project-1/"
+  status = 301
+
+[[redirects]]
+  from = "/post/project-2"
+  to = "/post/project-2/"
+  status = 301
+
+[[redirects]]
+  from = "/post/project-3"
+  to = "/post/project-3/"
+  status = 301
+
+[[redirects]]
+  from = "/post/project-4"
+  to = "/post/project-4/"
+  status = 301
+
+[[redirects]]
+  from = "/post/project-5"
+  to = "/post/project-5/"
+  status = 301
+
+[[redirects]]
+  from = "/post/project-6"
+  to = "/post/project-6/"
+  status = 301
+
+[[redirects]]
+  from = "/post/project-7"
+  to = "/post/project-7/"
+  status = 301
+
+[[redirects]]
+  from = "/post/project-8"
+  to = "/post/project-8/"
+  status = 301
+
+[[redirects]]
+  from = "/post/project-9"
+  to = "/post/project-9/"
+  status = 301
+
+[[redirects]]
+  from = "/post/project-10"
+  to = "/post/project-10/"
+  status = 301
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
